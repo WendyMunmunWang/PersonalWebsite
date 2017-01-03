@@ -68,25 +68,17 @@ of those sections to manage the look and feel of the site. */
     background-position: center center;
     background-size: cover;
 }
-.ubc_logo {
-    width: 150px;
-    height: 200px;
-    background-repeat: no-repeat;
-    float: left;
-    background-size: cover;
-
-}
 .tio_logo {
-    width: 200px;
-    height: 200px;
+    width: 270px;
+    height: 270px;
     background-repeat: no-repeat;
     float: right;
     background-size: cover;
 }
 .sap_logo {
-    display: inline-block;
-    width: 250px;
+    width: 300px;
     height: 250px;
     background-repeat: no-repeat;
     background-size: cover;
+    float: left;
 }
