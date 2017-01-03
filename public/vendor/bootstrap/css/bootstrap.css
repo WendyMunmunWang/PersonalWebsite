@@ -1114,9 +1114,7 @@ figure {
 img {
   vertical-align: middle;
 }
-.img-responsive {
-  border-radius: 50%;
-}
+.img-responsive,
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
