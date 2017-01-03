@@ -19,7 +19,6 @@ figcaption,
 figure,
 footer,
 header,
-hgroup,
 main,
 menu,
 nav,
@@ -1115,7 +1114,9 @@ figure {
 img {
   vertical-align: middle;
 }
-.img-responsive,
+.img-responsive {
+  border-radius: 50%;
+}
 .thumbnail > img,
 .thumbnail a > img,
 .carousel-inner > .item > img,
